@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite the relevant working paper via its DOI."
+title: "archi-intelligence Research Series"
+abstract: "A working-paper series on architecture intelligence: the maturity ladder of architectural reasoning, anchored in automotive E/E architecture and extending toward embodied AI."
+authors:
+  - name: "archi-intelligence Research Team"
+url: "https://www.archi-intelligence.org/research/"
+license: CC-BY-4.0
+type: dataset
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20357858
+    description: "2026-01 The Architectural Migration of the Century"
+  - type: doi
+    value: 10.5281/zenodo.20513865
+    description: "2026-02 State of Automotive E/E Architecture 2026"
+  - type: doi
+    value: 10.5281/zenodo.20513903
+    description: "2026-03 Multi-Embodiment Physical AI Platform Readiness"
