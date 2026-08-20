@@ -17,3 +17,6 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.20513903
     description: "2026-03 Multi-Embodiment Physical AI Platform Readiness"
+  - type: doi
+    value: 10.5281/zenodo.21035221
+    description: "2026-03 Who Builds the Architects"
