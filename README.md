@@ -38,6 +38,15 @@ The concluding paper: a clinical dissection of the Tesla FSD–Optimus unified s
 - 🔗 DOI: [10.5281/zenodo.20513903](https://doi.org/10.5281/zenodo.20513903)
 - 🌐 Web: https://www.archi-intelligence.org/research/2026-03/
 
+
+### 2026-04 · Who Builds the Architects
+*From Drawing Board to Reasoning Engine*
+
+The concluding paper: An AI2-ML Maturity Benchmark and Deep Ranking of the Architecture-Design Toolchain.
+
+- 📄 PDF: [Download](2026-04/2026-04_EN.pdf)
+- 🔗 DOI: [10.5281/zenodo.21035221](https://doi.org/10.5281/zenodo.21035221)
+- 🌐 Web: https://www.archi-intelligence.org/research/2026-04/
 ---
 
 ## Frameworks introduced
